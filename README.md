@@ -1,6 +1,6 @@
 # Systems Analysis 
 
-This is my systems analysis repository, where all the codes of the workshops are going to be uploaded.
+This is my systems analysis repository, where all the codes of the workshops are going to be uploaded and explained.
 
 ## Table of Contents
 
